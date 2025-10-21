@@ -4,7 +4,7 @@
 
 🚀 **AI-Powered Web Developer** | **WordPress Specialist** | **Problem Solver**
 
-📍 Accra, Ghana • 📧 2qwakuyeboah@gmail.com • 💼 [Your LinkedIn]
+📍 Accra, Ghana • 📧 2qwakuyeboah@gmail.com • 💼 https://www.linkedin.com/in/innocent-yeboah-23282a38b
 
 </div>
 
