@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**AI & Tools-Assistedssisted Development](https://img.shields.io/badge/AI_Assisted-FF6B35?style=for-the-badge)
+**AI & Tools-Assistedssisted Development])
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge)
 ![Claude](https://img.shields.io/badge/Claude-6B4C9A?style=for-the-badge)
 
